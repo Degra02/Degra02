@@ -15,7 +15,8 @@
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=rust,c,cpp,java,python,bash,lua,javascript,dart,docker)](https://skillicons.dev)
+![Skills](https://skills.syvixor.com/api/icons?i=rust,c,cpp,java,python,bash,lua,javascript,dart)<br>
+![Other](https://skills.syvixor.com/api/icons?i=arch,linux,proxmox,docker,cloudflare,raspberrypi,neovim,git,grafana,metasploit)
 
 
 ## How to reach me
